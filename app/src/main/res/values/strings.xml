@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Vitalii</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">About me About me
+        \n\nAbout me About me About me About me About me
+        \n\nAbout me About me About me About me About meAbout me About me About me About me About meAbout me About me About me About me About meAbout me About me About me About me About me
+        About me About me About me About me About meAbout me About me About me About me About meAbout me About me About me About me About meAbout me About me About me About me About me
+        About me About me About me About me About meAbout me About me About me About me About me
+        \nAbout me About me About me About me About meAbout me About me About me About me About me
+        \n\nAbout me About me About me About me About meAbout me About me About me About me About me
+        \n\nAbout me About me About me About me About meAbout me About me About me About me About meAbout me About me About me About me About me
+        \nAbout me About me About me About me About meAbout me About me About me About me About me
+        About me About me About me About me About \n\n
+    </string>
+    <string name="what_is_your_nickname">What\'s your nickname?</string>
+    <string name="done">Done</string>
+    <string name="your_nickname">your nickname</string>
+</resources>
